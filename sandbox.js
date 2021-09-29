@@ -2,7 +2,7 @@ function color(){
     console.log('hi');
 }
 function color1(){
-    console.log('hui');
+    console.log('welcome');
 }
 
 color();
